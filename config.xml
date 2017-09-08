@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Venture Out Gallery"
+	useThumbDots="true"
+	useFullscreenExpand="false"
+	indexPageName="gallery.html"
+
+>
+  <image imageURL="images/pexels-photo-109050.jpeg"
+	thumbURL="thumbs/pexels-photo-109050.jpeg"
+	linkURL="images/pexels-photo-109050.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Haley/Desktop/pexels-photo-109050.jpeg">
+    <title><![CDATA[pexels-photo-109050]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pexels-photo-139573.jpeg"
+	thumbURL="thumbs/pexels-photo-139573.jpeg"
+	linkURL="images/pexels-photo-139573.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Haley/Desktop/pexels-photo-139573.jpeg">
+    <title><![CDATA[pexels-photo-139573]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pexels-photo-141631.jpeg"
+	thumbURL="thumbs/pexels-photo-141631.jpeg"
+	linkURL="images/pexels-photo-141631.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Haley/Desktop/pexels-photo-141631.jpeg">
+    <title><![CDATA[pexels-photo-141631]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pexels-photo-175901.jpeg"
+	thumbURL="thumbs/pexels-photo-175901.jpeg"
+	linkURL="images/pexels-photo-175901.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Haley/Desktop/pexels-photo-175901.jpeg">
+    <title><![CDATA[pexels-photo-175901]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/pexels-photo-178996.jpeg"
+	thumbURL="thumbs/pexels-photo-178996.jpeg"
+	linkURL="images/pexels-photo-178996.jpeg"
+	linkTarget="_blank"
+	sourcePath="/Users/Haley/Desktop/pexels-photo-178996.jpeg">
+    <title><![CDATA[pexels-photo-178996]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
